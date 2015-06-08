@@ -462,9 +462,7 @@ class netCreate(ncFunctions):
 #from scipy.sparse import lil_matrix
 #
 ## Load Matlab data and convert it to dense tensor format
-#os.chdir('C:/Users/Stephen/Downloads')
 #T = loadmat('alyawarradata.mat')['Rs']
-#os.chdir('C:/Users/Stephen/Google Drive/PhD/Dissertation/3. network analysis/data')
 #
 ## save list of front slices of tensor T as input for 
 #X = [lil_matrix(T[:, :, k]) for k in range(T.shape[2])]
