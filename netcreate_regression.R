@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Stephen\\Google Drive\\PhD\\Dissertation\\3. network analysis\\data")
+setwd("")
 library(plyr)
 library(reshape2)
 library(ggplot2)
